@@ -1,0 +1,10 @@
+Align Items Center Coding Exercise
+Create a div element with the class container.
+
+Inside the container element, create a div element with the class row, the class h-10, the class bg-info, and the class align-items-center.
+
+Inside the row element, create four div elements with the class col-md-3.
+
+Inside each of the four col-md-3 elements, create a div element with the class bg-primary, the class p-3, mb-3 and the class text-white.
+
+Inside the bg-primary div, add text "Align Items Center" in each div
